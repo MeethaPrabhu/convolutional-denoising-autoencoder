@@ -179,3 +179,4 @@ Include your plot here
 
 
 ## RESULT
+Thus, the program to incorporate auto encoder and decoder is implemented successfully for image denoising
